@@ -1,0 +1,28 @@
+{
+  "library": "Sample Library",
+  "books": [
+    {
+      "book_id": "B001",
+      "title": "Python Programming",
+      "author": "John Smith",
+      "category": "Programming",
+      "total_copies": 5,
+      "available_copies": 4
+    },
+    {
+      "book_id": "B002",
+      "title": "Data Mining",
+      "author": "Arun Kumar",
+      "category": "Computer Science",
+      "total_copies": 4,
+      "available_copies": 3
+    }
+  ],
+  "students": [
+    {
+      "student_id": "S001",
+      "name": "Ansar Khan",
+      "department": "BCA"
+    }
+  ]
+}

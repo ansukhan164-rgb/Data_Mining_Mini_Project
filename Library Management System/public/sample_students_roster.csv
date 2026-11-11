@@ -1,0 +1,16 @@
+student_id,full_name,email,phone,department,enrolled_year
+STU-2024-001,Elena Rostova,elena.rostova@campus.edu,+1 (555) 234-8901,Computer Science,2024
+STU-2024-002,Marcus Vance,m.vance@campus.edu,+1 (555) 345-6712,Computer Science,2023
+STU-2024-003,Amina Al-Mansoor,amina.m@campus.edu,+1 (555) 456-7890,Data Science,2024
+STU-2024-004,Liam Chen,liam.chen@campus.edu,+1 (555) 567-8901,Artificial Intelligence,2023
+STU-2024-005,Sophia Rodriguez,sophia.r@campus.edu,+1 (555) 678-9012,Mathematics,2022
+STU-2024-006,David Okafor,d.okafor@campus.edu,+1 (555) 789-0123,Physics & Science,2024
+STU-2024-007,Chloe Tremblay,chloe.t@campus.edu,+1 (555) 890-1234,Economics & Business,2023
+STU-2024-008,Julian Patel,julian.patel@campus.edu,+1 (555) 901-2345,Philosophy,2022
+STU-2024-009,Hannah Lindqvist,h.lindqvist@campus.edu,+1 (555) 012-3456,Literature,2024
+STU-2024-010,Carlos Mendez,carlos.m@campus.edu,+1 (555) 123-4567,History,2023
+STU-2024-011,Zoe Washington,zoe.w@campus.edu,+1 (555) 234-5678,Computer Science,2024
+STU-2024-012,Noah Gallagher,noah.g@campus.edu,+1 (555) 345-6789,Economics & Business,2022
+STU-2024-013,Priya Sharma,priya.sharma@campus.edu,+1 (555) 456-7891,Data Science,2023
+STU-2024-014,Oliver Hansen,o.hansen@campus.edu,+1 (555) 567-8923,Fiction,2024
+STU-2024-015,Fatima Zahra,fatima.z@campus.edu,+1 (555) 678-9034,Artificial Intelligence,2024

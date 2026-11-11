@@ -1,0 +1,5 @@
+student_id,student_name,department,book_id,book_title,author,category,issue_date,due_date,status
+S001,Ansar Khan,BCA,B001,Python Programming,John Smith,Programming,2026-10-01,2026-10-15,Returned
+S002,Rahul Sharma,BCA,B002,Data Mining,Arun Kumar,Computer Science,2026-10-05,2026-10-19,Issued
+S003,Aman Kumar,BCA,B003,Artificial Intelligence,Stuart Russell,AI,2026-10-10,2026-10-24,Returned
+S004,Priya Singh,BCA,B004,Database Systems,Abraham Silberschatz,Database,2026-10-15,2026-10-29,Overdue

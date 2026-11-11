@@ -1,0 +1,6 @@
+{
+  "name": "Athenaeum Desktop Library Manager",
+  "description": "Full-featured desktop library management system in Python with clean Tkinter UI, SQLite database, book and student management, circulation desk, and student activity logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

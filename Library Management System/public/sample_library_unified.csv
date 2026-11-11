@@ -1,0 +1,28 @@
+type,id_code,title_or_name,author_or_dept,category_or_email,year,copies_total,copies_available,shelf_or_phone
+book,978-0132350884,Clean Code: A Handbook of Agile Software Craftsmanship,Robert C. Martin,Computer Science,2008,5,0,Stack CS-101
+book,978-0201616224,The Pragmatic Programmer: Your Journey to Mastery,David Thomas & Andrew Hunt,Computer Science,1999,4,1,Stack CS-104
+book,978-0262033848,Introduction to Algorithms (CLRS 4th Ed.),Thomas H. Cormen et al.,Computer Science,2022,6,2,Stack CS-108
+book,978-0596007126,Head First Design Patterns,Eric Freeman & Elisabeth Robson,Computer Science,2004,3,3,Stack CS-110
+book,978-0134685991,Effective Java (3rd Edition),Joshua Bloch,Computer Science,2018,4,0,Stack CS-112
+book,978-1449355739,Learning Python (5th Edition),Mark Lutz,Data Science,2013,5,1,Stack DS-201
+book,978-1491957660,Python for Data Analysis (3rd Ed.),Wes McKinney,Data Science,2022,5,3,Stack DS-204
+book,978-0262035613,Deep Learning,Ian Goodfellow & Yoshua Bengio,Artificial Intelligence,2016,4,0,Stack AI-301
+book,978-1617294631,Grokking Deep Learning,Andrew W. Trask,Artificial Intelligence,2019,3,2,Stack AI-305
+book,978-0321573513,Algorithms (4th Edition),Robert Sedgewick & Kevin Wayne,Mathematics,2011,4,3,Stack MT-401
+book,978-0199535569,Meditations,Marcus Aurelius,Philosophy,2008,4,4,Stack PH-502
+book,978-0062316097,Sapiens: A Brief History of Humankind,Yuval Noah Harari,History,2014,6,1,Stack HI-601
+book,978-0451524935,1984: The Classic Dystopian Novel,George Orwell,Fiction,1949,8,2,Fiction F-101
+book,978-0061120084,To Kill a Mockingbird,Harper Lee,Fiction,1960,5,3,Fiction F-105
+book,978-0743273565,The Great Gatsby,F. Scott Fitzgerald,Literature,1925,4,4,Literature L-201
+book,978-0593077382,Astrophysics for People in a Hurry,Neil deGrasse Tyson,Physics & Science,2017,5,4,Science SC-302
+book,978-0679776314,Thinking Fast and Slow,Daniel Kahneman,Economics & Business,2011,6,1,Business B-401
+student,STU-2024-001,Elena Rostova,Computer Science,elena.rostova@campus.edu,2024,,,+1 (555) 234-8901
+student,STU-2024-002,Marcus Vance,Computer Science,m.vance@campus.edu,2023,,,+1 (555) 345-6712
+student,STU-2024-003,Amina Al-Mansoor,Data Science,amina.m@campus.edu,2024,,,+1 (555) 456-7890
+student,STU-2024-004,Liam Chen,Artificial Intelligence,liam.chen@campus.edu,2023,,,+1 (555) 567-8901
+student,STU-2024-005,Sophia Rodriguez,Mathematics,sophia.r@campus.edu,2022,,,+1 (555) 678-9012
+student,STU-2024-006,David Okafor,Physics & Science,d.okafor@campus.edu,2024,,,+1 (555) 789-0123
+student,STU-2024-007,Chloe Tremblay,Economics & Business,chloe.t@campus.edu,2023,,,+1 (555) 890-1234
+student,STU-2024-008,Julian Patel,Philosophy,julian.patel@campus.edu,2022,,,+1 (555) 901-2345
+student,STU-2024-009,Hannah Lindqvist,Literature,h.lindqvist@campus.edu,2024,,,+1 (555) 012-3456
+student,STU-2024-010,Carlos Mendez,History,carlos.m@campus.edu,2023,,,+1 (555) 123-4567

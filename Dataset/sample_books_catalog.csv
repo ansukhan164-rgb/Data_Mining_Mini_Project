@@ -1,0 +1,9 @@
+book_id,title,author,category,isbn,publisher,publication_year,total_copies,available_copies
+B001,Python Programming,John Smith,Programming,978100000001,Tech Press,2022,5,4
+B002,Data Mining,Arun Kumar,Computer Science,978100000002,Academic Press,2021,4,3
+B003,Artificial Intelligence,Stuart Russell,AI,978100000003,Pearson,2020,6,5
+B004,Database Systems,Abraham Silberschatz,Database,978100000004,McGraw Hill,2023,5,2
+B005,Web Development,Jon Duckett,Programming,978100000005,Wiley,2022,3,3
+B006,Machine Learning,Tom Mitchell,AI,978100000006,McGraw Hill,2021,4,2
+B007,Computer Networks,Andrew Tanenbaum,Networking,978100000007,Pearson,2020,5,4
+B008,Operating Systems,Galvin,Computer Science,978100000008,Wiley,2022,4,3

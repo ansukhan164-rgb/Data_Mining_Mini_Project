@@ -1,0 +1,16 @@
+book_id,student_id,issue_date,due_date,return_date,status,fine_amount,notes,book_title,student_name,student_code
+1,1,2026-10-20,2026-11-03,2026-11-02,Returned,0.00,Returned in mint condition,Clean Code: A Handbook of Agile Software Craftsmanship,Elena Rostova,STU-2024-001
+1,2,2026-11-05,2026-11-19,,Issued,0.00,Capstone project development,Clean Code: A Handbook of Agile Software Craftsmanship,Marcus Vance,STU-2024-002
+2,3,2026-11-01,2026-11-15,,Issued,0.00,Internship preparation,The Pragmatic Programmer: Your Journey to Mastery,Amina Al-Mansoor,STU-2024-003
+3,4,2026-10-15,2026-10-29,,Overdue,6.50,Late notice sent to student email,Introduction to Algorithms (CLRS 4th Ed.),Liam Chen,STU-2024-004
+5,5,2026-11-02,2026-11-16,,Issued,0.00,Coursework reading CS-201,Effective Java (3rd Edition),Sophia Rodriguez,STU-2024-005
+6,13,2026-10-25,2026-11-08,,Overdue,1.50,Follow-up reminder scheduled,Learning Python (5th Edition),Priya Sharma,STU-2024-013
+8,15,2026-11-06,2026-11-20,,Issued,0.00,Neural network semester thesis,Deep Learning,Fatima Zahra,STU-2024-015
+9,4,2026-10-28,2026-11-11,2026-11-10,Returned,0.00,On-time return,Grokking Deep Learning,Liam Chen,STU-2024-004
+11,8,2026-11-04,2026-11-18,,Issued,0.00,Stoic ethics term paper,Meditations,Julian Patel,STU-2024-008
+12,10,2026-11-03,2026-11-17,,Issued,0.00,Historical anthropology seminar,Sapiens: A Brief History of Humankind,Carlos Mendez,STU-2024-010
+13,14,2026-10-22,2026-11-05,2026-11-04,Returned,0.00,Returned to circulation desk,1984: The Classic Dystopian Novel,Oliver Hansen,STU-2024-014
+14,9,2026-11-01,2026-11-15,,Issued,0.00,Lit analysis paper,To Kill a Mockingbird,Hannah Lindqvist,STU-2024-009
+17,6,2026-10-30,2026-11-13,,Issued,0.00,Intro astrophysics seminar,Astrophysics for People in a Hurry,David Okafor,STU-2024-006
+19,7,2026-11-04,2026-11-18,,Issued,0.00,Behavioral economics elective,Thinking Fast and Slow,Chloe Tremblay,STU-2024-007
+20,12,2026-10-18,2026-11-01,2026-11-03,Returned,1.00,Assessed 2-day late fine paid,Zero to One: Notes on Startups,Noah Gallagher,STU-2024-012

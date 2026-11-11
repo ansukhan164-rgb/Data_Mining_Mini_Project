@@ -1,0 +1,7 @@
+student_id,name,email,department,semester,phone
+S001,Ansar Khan,ansar@example.com,BCA,7,9876543210
+S002,Rahul Sharma,rahul@example.com,BCA,6,9876543211
+S003,Aman Kumar,aman@example.com,BCA,5,9876543212
+S004,Priya Singh,priya@example.com,BCA,7,9876543213
+S005,Neha Verma,neha@example.com,BCA,4,9876543214
+S006,Arjun Patel,arjun@example.com,BCA,6,9876543215
